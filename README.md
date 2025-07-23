@@ -63,4 +63,4 @@ python/
 
 ---
 
-**This project is a simulation for learning and interview purposes. No real AI or eCommerce APIs are used.**
+**This project is a simulation for learning  purposes. No real AI or eCommerce APIs are used.**
