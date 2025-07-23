@@ -39,29 +39,29 @@ The **AI Merch Maker Lite** project is built around the idea of simulating a rea
 
 #  Problem-Solving Approach
 
-# 1. Language Allocation**
+# 1. Language Allocation
 Each task was assigned a language best suited for it:
 - **Python** for logic, file handling, and automation
 - **HTML/JS** for interactive product mockup simulation
 - **PHP** for simulating backend publishing APIs
 
-# 2. Task Isolation & Modularity**
+# 2. Task Isolation & Modularity
 Tasks were built modularly and independently to allow testing each module on its own, then integrated together using Python's `subprocess` and API calls.
 
-# 3. Automation First**
+# 3. Automation First
 The orchestrator script acts as a control tower — triggering all tasks and ensuring clean logs, error handling, and integration between modules.
 
-# 4. AI Simulation for Cost-Free Execution**
+# 4. AI Simulation for Cost-Free Execution
 Instead of live OpenAI API calls (which are paid), simulated AI logic (using randomization, structured data, base64 encoding) was used to mimic realistic product generation — making it fully executable without cloud cost.
 
-# 5. Developer-Style Structure**
+# 5. Developer-Style Structure
 The code is structured with:
 - Folder separation by language (`/python`, `/php`, `/js`, `/assets`)
 - CLI-style logs in Python
 - REST-like API interaction in PHP
 - Interactive and responsive UI
 
-# 6. Bonus Layer**
+# 6. Bonus Layer
 - HTML canvas is made beautiful and branded
 - All outputs are visual and exportable (JSON, images)
 - PHP logs simulate real-world endpoints and IDs
