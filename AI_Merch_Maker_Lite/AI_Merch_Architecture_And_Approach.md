@@ -61,8 +61,7 @@ The code is structured with:
 - REST-like API interaction in PHP
 - Interactive and responsive UI
 
-# 6. Bonus Layer: HR & User Experience**
-To impress both technical and non-technical reviewers:
+# 6. Bonus Layer**
 - HTML canvas is made beautiful and branded
 - All outputs are visual and exportable (JSON, images)
 - PHP logs simulate real-world endpoints and IDs
