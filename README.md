@@ -1,7 +1,7 @@
 
 # AI Merch Maker Lite (Simulation)
 
-A modular, fully simulated pipeline for automated AI-generated product listings, using Python, JavaScript (Node.js), and PHP. No real AI APIs are used—everything is simulated for learning.
+A modular, fully simulated pipeline for automated AI-generated product listings, using Python, JavaScript, and PHP. No real AI APIs are used—everything is simulated for learning.
 
 ## Project Structure
 
