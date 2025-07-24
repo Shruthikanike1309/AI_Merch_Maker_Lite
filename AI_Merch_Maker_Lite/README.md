@@ -59,7 +59,7 @@ python/
 
 ## Output
 - All generated files and logs are in `assets/generated/`
-- Check the terminal for CLI logs and the final product ID
+- Outputs of the terminal and the final product ID are in documentation.
 
 ---
 
