@@ -46,12 +46,7 @@ python/
    ```
    php -S localhost:8000
    ```
-3. Install Node.js dependencies in `js/`:
-   ```
-   cd js
-   npm install canvas
-   ```
-4. Run the orchestrator:
+3. Run the orchestrator:
    ```
    cd ../python
    python orchestrator.py
