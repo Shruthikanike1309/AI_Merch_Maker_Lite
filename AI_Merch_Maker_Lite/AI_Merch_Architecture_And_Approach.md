@@ -52,12 +52,11 @@ Tasks were built modularly and independently to allow testing each module on its
 The orchestrator script acts as a control tower — triggering all tasks and ensuring clean logs, error handling, and integration between modules.
 
 # 4. AI Simulation for Cost-Free Execution
-Instead of live OpenAI API calls (which are paid), simulated AI logic (using randomization, structured data, base64 encoding) was used to mimic realistic product generation — making it fully executable without cloud cost.
+Instead of live OpenAI API calls (which are paid), simulated AI logic (using randomization) was used to mimic realistic product generation — making it fully executable without cloud cost.
 
 # 5. Developer-Style Structure
 The code is structured with:
 - Folder separation by language (`/python`, `/php`, `/js`, `/assets`)
-- CLI-style logs in Python
 - REST-like API interaction in PHP
 - Interactive and responsive UI
 
