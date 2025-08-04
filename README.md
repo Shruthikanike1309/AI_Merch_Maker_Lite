@@ -38,6 +38,12 @@ python/
    - Runs the above steps in order
    - Logs each step with timestamps
    - Ready for daily automation (e.g., via cron or Task Scheduler)
+5.  Shopify Integration - I have integrated my simulation pipeline with the **Shopify Admin API**.
+Store URL:[https://ai-merch-simulated.myshopify.com]
+- Reads the output from `product.json` generated in Task 1
+- Connects to the Shopify Admin API via a private app
+- Uploads the product programmatically (title, description, tags)
+- Receives a real `Shopify Product ID` in response
 
 ## Quick Start
 
